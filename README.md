@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-[![Blog](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alessandroagostini)
+Estudando ciência de dados
 
-[![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlessandrodeAlmeida2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alessandroagostini)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlessandrodeAlmeida2)
 
-![Alessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical)
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical)
+[![Alessandro](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrodeAlmeida2=compact)](https://github.com/AlessandrodeAlmeida2/github-readme-stats)
 
+## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
