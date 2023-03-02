@@ -6,7 +6,6 @@ Estudando ciência de dados
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlessandrodeAlmeida2)
 
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical)
-[![Alessandro](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrodeAlmeida2=compact)](https://github.com/AlessandrodeAlmeida2/github-readme-stats)
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
