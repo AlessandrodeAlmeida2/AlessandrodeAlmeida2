@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alessandroagostini)
 
-[!Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlessandrodeAlmeida2)
+[![Blog](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlessandrodeAlmeida2)
 
 ![Alessandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical)
 
