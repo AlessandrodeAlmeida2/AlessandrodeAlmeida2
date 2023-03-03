@@ -2,8 +2,8 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/AlessandrodeAlmeida2"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/desafio-titanic-kaggle"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/AlessandrodeAlmeida2/BEPb?color=blue"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/stargazers"><img src="https://img.shields.io/github/stars/AlessandrodeAlmeida2/BEPb.svg?logo=github"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/network/members"><img src="https://img.shields.io/github/forks/AlessandrodeAlmeida2/BEPb.svg?color=blue&logo=github"></a>
