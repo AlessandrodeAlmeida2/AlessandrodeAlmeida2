@@ -1,16 +1,18 @@
 ![](https://github.com/AlessandrodeAlmeida2/BEPb/blob/main/assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/AlessandrodeAlmeida2/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/desafio-titanic-kaggle"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/graphs/contributors"><img src="https://img.shields.io/github/contributors/AlessandrodeAlmeida2/BEPb?color=blue"></a>
     <a href="https://github.com/AlessandrodeAlmeida2/stargazers"><img src="https://img.shields.io/github/stars/AlessandrodeAlmeida2/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/AlessandrodeAlmeida2/network/members"><img src="https://img.shields.io/github/forks/AlessandrodeAlmeida2/BEPb.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/AlessandrodeAlmeida2/network/members"><img src="https://img.shields.io/github/forks/AlessandrodeAlmeida2/BEPb.svg?color=blue&logo=github"></a> 
+    
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AlessandrodeAlmeida2" alt="visitors"/>
+ 
     <a href="https://discord.gg/HHMs7Eg" target="blank">
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=AlessandrodeAlmeida2&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
+</a>-->
 </p>
 
 <!--   my-header-img -->
@@ -44,7 +46,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandrodeAlmeida2&show_icons=true&theme=radical) | ![Alessandro's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandrodeAlmeida2&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrodeAlmeida2"></img>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandrodeAlmeida2"></img>-->
 
 
 
