@@ -13,6 +13,7 @@
     <a href="https://discord.gg/HHMs7Eg" target="blank">
 <img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=AlessandrodeAlmeida2&style=flat-square" alt="join discord community of github profile readme generator"/>
 </a>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AlessandrodeAlmeida2" alt="visitors"/>
 </p>
 
 <!--   my-header-img -->
