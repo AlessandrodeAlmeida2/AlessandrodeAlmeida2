@@ -24,8 +24,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Alessandro+de+Almeida;+Welcome+to+My+Profile!;I'm+student+of+data+science+and+a+developer;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![Alessandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandrodeAlmeida2&theme=github-compact)](https://github.com/AlessandrodeAlmeida2/BEPb/github-readme-activity-graph)
+<!-- ### 📈 GitHub Activity Graph:
+[![Alessandro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlessandrodeAlmeida2&theme=github-compact)](https://github.com/AlessandrodeAlmeida2/BEPb/github-readme-activity-graph) -->
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
