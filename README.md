@@ -49,6 +49,12 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+## Badges
+
+<a href="https://www.credly.com/earner/earned/badge/e271f440-80e9-4815-86aa-812868ebcc98">
+    <img src="https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="150"/>
+</a>
+
 ## Outras comunidades que eu participo
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alessandroagostini)
