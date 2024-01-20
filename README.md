@@ -54,6 +54,12 @@
 <a href="https://www.credly.com/earner/earned/badge/e271f440-80e9-4815-86aa-812868ebcc98">
     <img src="https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="150"/>
 </a>
+<a href="https://www.credly.com/earner/earned/badge/707b41c5-973d-4174-b354-3b664c2250a8">
+    <img src="https://images.credly.com/images/0d7d3db3-875f-4a63-b7a4-cd66c22a6af5/image.png" alt="Back-end Application Development Capstone Project" width="150"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/eb2f2653-32f5-420f-ada3-36137159ebeb">
+    <img src="https://images.credly.com/images/5e15f28e-93cb-4e91-9813-febd4b72c53f/image.png" alt="Container & Kubernetes Essentials V2" width="150"/>
+</a>
 
 ## Outras comunidades que eu participo
 
