@@ -52,13 +52,31 @@
 ## Badges
 
 <a href="https://www.credly.com/earner/earned/badge/e271f440-80e9-4815-86aa-812868ebcc98">
-    <img src="https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="150"/>
+    <img src="https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="130"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/707b41c5-973d-4174-b354-3b664c2250a8">
-    <img src="https://images.credly.com/images/0d7d3db3-875f-4a63-b7a4-cd66c22a6af5/image.png" alt="Back-end Application Development Capstone Project" width="150"/>
+    <img src="https://images.credly.com/images/0d7d3db3-875f-4a63-b7a4-cd66c22a6af5/image.png" alt="Back-end Application Development Capstone Project" width="130"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/eb2f2653-32f5-420f-ada3-36137159ebeb">
-    <img src="https://images.credly.com/images/5e15f28e-93cb-4e91-9813-febd4b72c53f/image.png" alt="Container & Kubernetes Essentials V2" width="150"/>
+    <img src="https://images.credly.com/images/5e15f28e-93cb-4e91-9813-febd4b72c53f/image.png" alt="Container & Kubernetes Essentials V2" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/1ba8d666-b68f-4f77-920f-a699889f89ba">
+    <img src="https://images.credly.com/images/e6d29f38-2e60-4a9c-8c47-ebf02472bf77/image.png" alt="Linux Commands & Shell Scripting Essentials V2" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/c0cbc39a-3507-43f0-8c87-5de865ce2a1d">
+    <img src="https://images.credly.com/images/973136f8-09b5-439a-a309-45041c83c756/image.png" alt="Application Development using Microservices and Serverless" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/73b939bb-7ad2-4193-a78f-6069377643aa">
+    <img src="https://images.credly.com/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png" alt="Developing Applications with SQL, Databases, and Django" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/2d83930e-2e03-4299-8d61-e19b1c698fbf">
+    <img src="https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png" alt="Python Project for AI and Application Development" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/010a03e3-2a77-48cf-8f00-3ffbd47fdbf4">
+    <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI" width="130"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/8955fd0e-251f-4ec9-90c2-7b887ac3b9e8">
+    <img src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="130"/>
 </a>
 
 ## Outras comunidades que eu participo
