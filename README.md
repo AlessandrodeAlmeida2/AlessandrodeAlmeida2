@@ -75,7 +75,7 @@
 <a href="https://www.credly.com/earner/earned/badge/010a03e3-2a77-48cf-8f00-3ffbd47fdbf4">
     <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/8955fd0e-251f-4ec9-90c2-7b887ac3b9e8">
+<a href="https://www.credly.com/badges/8955fd0e-251f-4ec9-90c2-7b887ac3b9e8">
     <img src="img/software.png" alt="Software Engineering Essentials" width="130"/>
 </a>
 
