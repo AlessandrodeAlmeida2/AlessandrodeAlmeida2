@@ -57,22 +57,22 @@
 <a href="https://www.credly.com/badges/707b41c5-973d-4174-b354-3b664c2250a8">
     <img src="img/capstone.png" alt="Back-end Application Development Capstone Project" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/eb2f2653-32f5-420f-ada3-36137159ebeb">
+<a href="https://www.credly.com/badge/eb2f2653-32f5-420f-ada3-36137159ebeb">
     <img src="img/container.png" alt="Container & Kubernetes Essentials V2" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/1ba8d666-b68f-4f77-920f-a699889f89ba">
+<a href="https://www.credly.com/badge/1ba8d666-b68f-4f77-920f-a699889f89ba">
     <img src="img/linux.png" alt="Linux Commands & Shell Scripting Essentials V2" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/c0cbc39a-3507-43f0-8c87-5de865ce2a1d">
+<a href="https://www.credly.com/badge/c0cbc39a-3507-43f0-8c87-5de865ce2a1d">
     <img src="img/microservices.png" alt="Application Development using Microservices and Serverless" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/73b939bb-7ad2-4193-a78f-6069377643aa">
+<a href="https://www.credly.com/badge/73b939bb-7ad2-4193-a78f-6069377643aa">
     <img src="https://images.credly.com/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png" alt="Developing Applications with SQL, Databases, and Django" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/2d83930e-2e03-4299-8d61-e19b1c698fbf">
+<a href="https://www.credly.com/badge/2d83930e-2e03-4299-8d61-e19b1c698fbf">
     <img src="https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png" alt="Python Project for AI and Application Development" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/010a03e3-2a77-48cf-8f00-3ffbd47fdbf4">
+<a href="https://www.credly.com/badge/010a03e3-2a77-48cf-8f00-3ffbd47fdbf4">
     <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/8955fd0e-251f-4ec9-90c2-7b887ac3b9e8">
