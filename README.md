@@ -51,10 +51,10 @@
 
 ## Badges
 
-<a href="https://www.credly.com/earner/earned/badge/e271f440-80e9-4815-86aa-812868ebcc98">
+<a href="https://www.credly.com/badges/e271f440-80e9-4815-86aa-812868ebcc98">
     <img src="https://images.credly.com/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="130"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/707b41c5-973d-4174-b354-3b664c2250a8">
+<a href="https://www.credly.com/badges/707b41c5-973d-4174-b354-3b664c2250a8">
     <img src="img/capstone.png" alt="Back-end Application Development Capstone Project" width="130"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/eb2f2653-32f5-420f-ada3-36137159ebeb">
