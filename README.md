@@ -67,7 +67,7 @@
     <img src="img/microservices.png" alt="Application Development using Microservices and Serverless" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/73b939bb-7ad2-4193-a78f-6069377643aa">
-    <img src="https://images.credly.com/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png" alt="Developing Applications with SQL, Databases, and Django" width="130"/>
+    <img src="img/SQL.png" alt="Developing Applications with SQL, Databases, and Django" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/2d83930e-2e03-4299-8d61-e19b1c698fbf">
     <img src="https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png" alt="Python Project for AI and Application Development" width="130"/>
