@@ -70,7 +70,7 @@
     <img src="img/SQL.png" alt="Developing Applications with SQL, Databases, and Django" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/2d83930e-2e03-4299-8d61-e19b1c698fbf">
-    <img src="https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png" alt="Python Project for AI and Application Development" width="130"/>
+    <img src="img/pythonIA.png" alt="Python Project for AI and Application Development" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/010a03e3-2a77-48cf-8f00-3ffbd47fdbf4">
     <img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="Python for Data Science and AI" width="130"/>
